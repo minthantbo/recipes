@@ -1,0 +1,12 @@
+#main{
+    background-color: aquamarine;
+    height: max-content;
+    width: max-content;
+}
+
+.recipe{
+    background-color: yellow;
+    color: black;
+    height: fit-content;
+    width: fit-content;
+}
