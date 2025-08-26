@@ -1,12 +1,32 @@
 #main{
-    background-color: aquamarine;
-    height: max-content;
-    width: max-content;
+    text-align: center;
+
+}
+    
+
+img{
+    width: auto;
+    height: 200px;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+}
+.recipe-container{
+    text-align: center;
 }
 
 .recipe{
-    background-color: yellow;
-    color: black;
-    height: fit-content;
-    width: fit-content;
+    margin: 20px;
+    display: inline-block;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    border-right: 4px solid black;
+    border-bottom: 4px solid gray;
+    border-top: 0;
+    border-left: 0;
 }
