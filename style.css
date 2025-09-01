@@ -1,8 +1,17 @@
 #main{
     text-align: center;
-
+    color: darkgray;
+    background-color: beige ;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
 }
-    
+body{
+    background-image: url('./images/baganmm.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}    
 
 img{
     width: auto;
